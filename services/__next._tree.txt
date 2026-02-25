@@ -1,0 +1,12 @@
+:HL["/_next/static/chunks/53cd2e3ac0c633e0.css","style"]
+:HL["/plugins/swiper/swiper-bundle.min.css","style",{"type":"text/css"}]
+:HL["/css/plugins.css","style",{"type":"text/css"}]
+:HL["/css/style.css","style",{"type":"text/css"}]
+:HL["/css/skin/skin-6.css","style",{"type":"text/css"}]
+:HL["/css/templete.css","style",{"type":"text/css"}]
+:HL["/plugins/revolution/revolution/css/settings.css","style",{"type":"text/css"}]
+:HL["/plugins/revolution/revolution/css/navigation.css","style",{"type":"text/css"}]
+:HL["/images/our-work/pic1.jpg","image"]
+:HL["/images/our-work/pic2.jpg","image"]
+:HL["/images/our-work/pic3.jpg","image"]
+0:{"buildId":"bHbn4yle6qfVkqH4mgr9p","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"services","paramType":null,"paramKey":"services","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[29605,["/_next/static/chunks/8b11a0f9e90aa412.js","/_next/static/chunks/6e0d6f16d213e058.js"],"ViewportBoundary"]
+3:I[29605,["/_next/static/chunks/8b11a0f9e90aa412.js","/_next/static/chunks/6e0d6f16d213e058.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[40330,["/_next/static/chunks/8b11a0f9e90aa412.js","/_next/static/chunks/6e0d6f16d213e058.js"],"IconMark"]
+0:{"buildId":"bHbn4yle6qfVkqH4mgr9p","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ConstructZilla - Construction, Renovation & Building HTML Template"}],["$","meta","1",{"name":"description","content":"ConstructZilla: A Complete Construction Company, Renovation Agency, Architect Agency"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],null]}],"loading":null,"isPartial":false}
